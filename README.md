@@ -1,4 +1,4 @@
-```# ws_Graphviz
+# ws_Graphviz
 Apprenez à coder un graphique en dot avec Graphviz.
 Pour télécharger Graphviz :
 - https://graphviz.org/download/
@@ -37,4 +37,3 @@ Le but à la fin de ce Workshop serait de vous rendre capable de faire un graphi
 Afin de différencier les femmes des hommes, vous devrez colorer les bordures dans les couleurs de votre choix (différentes pour chaque sexe).
 De plus Caroline et ses parents vivent actuellement en Angleterre. Représentez leurs nodes en pointillets.
 Enfin Mireille et Maurice sont mariés, symboliser ce lien par une double flèche rouge.
-```
