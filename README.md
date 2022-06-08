@@ -1,4 +1,4 @@
-# ws_Graphviz
+```# ws_Graphviz
 Apprenez à coder un graphique en dot avec Graphviz.
 Pour télécharger Graphviz :
 - https://graphviz.org/download/
@@ -27,4 +27,14 @@ Le but à la fin de ce Workshop serait de vous rendre capable de faire un graphi
     Pour vous aider voici la doc : https://graphviz.org/doc/info/lang.html#subgraphs-and-clusters
     Créez un sous-graph contenant "a0 et "a1" et appelez-le "bograph".
 
-4. Maintenant vous en savez assez pour reproduire le graph en exemple. Bonne chance !
+4. Maintenant vous en savez assez pour reproduire le graph en exemple.
+
+5. Pour terminer, vous allez devoir modéliser l'arbre généalogique de la famille suivante:
+    - un enfant unique, nommé Ethan et agé de 18 ans.
+    - les parents d'Ethan, nommés Caroline et Patrice et agés de 45 et 48 ans.
+    - les parents de Caroline, nommés Mireille et Maurice et agés de 78 et 79 ans.
+    - les parents de Patrice, nommés Patricia et Claude et agés de 80 et 76 ans.
+Afin de différencier les femmes des hommes, vous devrez colorer les bordures dans les couleurs de votre choix (différentes pour chaque sexe).
+De plus Caroline et ses parents vivent actuellement en Angleterre. Représentez leurs nodes en pointillets.
+Enfin Mireille et Maurice sont mariés, symboliser ce lien par une double flèche rouge.
+```
